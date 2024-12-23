@@ -1,5 +1,3 @@
-![Cover Image]([https://media.wired.com/photos/5ca648a330f00e47fd82ae77/master/pass/Culture_Matrix_Code_corridor.jpg](https://media.istockphoto.com/id/1496673625/tr/vekt%C3%B6r/blue-abstract-background-with-blue-glowing-diagonal-rounded-lines-modern-shiny-geometric.jpg?s=612x612&w=0&k=20&c=ZWuSC2NWnJkkcwnhEf8V8ekxGtTUnVcKl-TH4_dMfBs=))
-
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A recent Computer Engineering graduate</h3>
 
